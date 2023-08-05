@@ -1,5 +1,5 @@
 # react-native-countdown
-React Native CountDown (Updated to remove AppState.removeEventListener)
+React Native CountDown (Updated to remove deprecated AppState.removeEventListener)
 
 ## Installation
 Run `npm install react-native-countdown-component --save` OR `yarn add react-native-countdown-component --save`
